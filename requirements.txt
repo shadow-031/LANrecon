@@ -1,0 +1,8 @@
+# Core dependency (optional, for gateway/interface detection)
+netifaces>=0.11.0
+
+# If you plan to later integrate CVE APIs via HTTP requests
+# requests>=2.31.0
+
+# If you decide to parse or manipulate JSON output from nmap
+# python-nmap>=0.7.1
